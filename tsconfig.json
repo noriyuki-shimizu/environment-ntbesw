@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "typeRoots": [
+      "./src/@types"
+    ],
+    "target": "esnext",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "strict": true,
+    "isolatedModules": true,
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*"]
+}
